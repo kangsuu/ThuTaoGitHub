@@ -74,3 +74,4 @@ int main(){
     cout << "\nUCLN_3(" << a << "," << b << ") = " << UCLN_3(a,b);
     cout << "\nUCLN_4(" << a << "," << b << ") = " << UCLN_4(a,b);
 }
+//Thu github xem co duoc khong thoi
